@@ -10,5 +10,5 @@ int main() {
 
 	std::cout << "Please enter an integer: ";
 	std::cin >> number;
-	std::cout << "\nYou entered: " << number << ".\n";
+	std::cout << "\nYou entered: " << number << ".\n"; //test
 }
